@@ -1,13 +1,16 @@
-# Projeto React com Várias Atividades
+# 7-Codifica ReactJS
 
-Este projeto contém diferentes componentes desenvolvidos para praticar conceitos de React.
+Este projeto contém diferentes componentes desenvolvidos para praticar conceitos de React. Ele inclui um menu de navegação e estilos modernos.
 
-## Atividades Implementadas
-1. Contador Simples
-2. Alteração de Cor de Fundo
+## 📋 Funcionalidades
 
-## Como Executar
+- **Navegação:** Um menu simples para facilitar a navegação pela página.
+- **Componentes React:** Exemplos práticos para estudo e aprendizado.
+- **Estilos Responsivos:** Design moderno com CSS puro.
+
+## 🚀 Como usar
+
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd my-react-project
+   git clone https://github.com/ElianeCoelho/7-codifica-reactjs.git
+   cd 7-codifica-reactjs
